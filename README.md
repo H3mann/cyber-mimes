@@ -10,7 +10,8 @@ https://cloud.githubusercontent.com/assets/9117896/19214254/966c6350-8d4c-11e6-9
 Main features
 =============
 
-* React-redux based web browser point-and-click adventure RPG
+* Tech Stack: React-redux/Node/Express/Neo4j 
+* A point-and-click adventure RPG game
 * Created completely from scratch
 
 
