@@ -31,4 +31,5 @@ Go to a browser and go to: http://localhost:9001
 Enjoy!
 
 Alternatively, don't install the game and instead go to the deployed version
-[DEPLOYED VERSION HERE]
+http://52.43.205.13/
+
